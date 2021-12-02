@@ -11,3 +11,4 @@ Start of List:
 3.fastidious
 4.morsel
 5.summit
+6.beg
