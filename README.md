@@ -13,3 +13,5 @@ Start of List:
 5.summit
 6.beg
 7.infinite
+8.treaty
+9.spin
