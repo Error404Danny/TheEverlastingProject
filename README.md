@@ -15,3 +15,6 @@ Start of List:
 7.infinite
 8.treaty
 9.spin
+10.teacher
+11.flexible
+12.disk
