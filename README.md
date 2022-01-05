@@ -18,3 +18,6 @@ Start of List:
 10.teacher
 11.flexible
 12.disk
+13.genetic
+14.immune
+
