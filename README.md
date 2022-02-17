@@ -26,5 +26,9 @@ Start of List:
 18.joke
 19.implicit
 20.increase
+21.equal
+22.willpower
+23.ensure
+24.inspector
 
 
