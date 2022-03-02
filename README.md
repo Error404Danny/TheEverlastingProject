@@ -30,5 +30,7 @@ Start of List:
 22.willpower
 23.ensure
 24.inspector
+25.campaign
+26.peace
 
 
