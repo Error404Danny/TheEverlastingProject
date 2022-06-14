@@ -46,4 +46,5 @@ Start of List:
 37.ignorant
 38.youth
 39.patient
+40.trouble
 
