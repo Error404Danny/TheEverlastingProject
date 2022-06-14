@@ -45,4 +45,5 @@ Start of List:
 36.monstrous
 37.ignorant
 38.youth
+39.patient
 
