@@ -47,4 +47,8 @@ Start of List:
 38.youth
 39.patient
 40.trouble
-
+41.daughter
+42.control
+43.reckless
+44.hunter
+45.visit
