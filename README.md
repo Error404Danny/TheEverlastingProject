@@ -52,3 +52,8 @@ Start of List:
 43.reckless
 44.hunter
 45.visit
+46.sword
+47.award
+48.function
+49.multiply
+50.snatch
