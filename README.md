@@ -57,3 +57,8 @@ Start of List:
 48.function
 49.multiply
 50.snatch
+51.pound
+52.
+53.
+54.
+55.
