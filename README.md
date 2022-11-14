@@ -58,7 +58,7 @@ Start of List:
 49.multiply
 50.snatch
 51.pound
-52.
+52.inside
 53.
 54.
 55.
