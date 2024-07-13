@@ -69,3 +69,4 @@ Start of List:
 60.desk
 61.goalkeeper
 62.parade
+63.opposite
